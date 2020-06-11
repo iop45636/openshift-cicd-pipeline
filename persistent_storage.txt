@@ -1,0 +1,5 @@
+gogs-data 1gb readwriteonce
+gogs-postgres-data 1gb readwriteonce
+sonardb 5gb readwriteonce
+sonarqube-data 5 gb readwriteonce
+nexus-pv 2gb readwriteonce
